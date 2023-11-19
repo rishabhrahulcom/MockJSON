@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "ParkStreet 9090",
+    "price": 8500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+   
+  },
+  {
+    "id": 2,
+    "title": "Cozy 3 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+
+  },  {
+    "id": 4,
+    "title": "luxury 8 bedroom Apartment ",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown-maria-road",
+    "price": 19000,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown-beach",
+    "price": 7500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  },  {
+    "id": 1,
+    "title": "Cozy 2 Bedroom Flat",
+    "type": "rent",
+    "category": "flat",
+    "location": "Downtown",
+    "price": 1500,
+    "currency": "USD",
+    "images": ["img1.jpg", "img2.jpg"],
+    "description": "A brief description..."
+  }
+]
